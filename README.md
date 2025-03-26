@@ -59,8 +59,11 @@ Dropout: Dropout was introduced to prevent overfitting by randomly disabling som
 Normalization: The data was normalized to bring all features to the same scale, improving model convergence.
 
 Model Evaluation: We used accuracy, precision, and recall metrics to evaluate the model's performance on both training and testing datasets.
+Images from my second notebook: 
+![image](https://github.com/user-attachments/assets/c2ce877b-1824-4f81-8d0a-4d5614cab0be)
 
 ![image](https://github.com/user-attachments/assets/2c29c15b-827d-4e86-b67a-f726a4a5a658)
+
 
 
 Summary
