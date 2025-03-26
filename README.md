@@ -52,13 +52,13 @@ The model achieved a performance of 80% accuracy, which was below the target per
 
 Steps Taken to Improve Performance:
 
-Hyperparameter Tuning: We adjusted the number of hidden layers, neurons, and learning rates in several trials.
+Hyperparameter Tuning: I adjusted the number of hidden layers, neurons, and learning rates in several trials.
 
 Dropout: Dropout was introduced to prevent overfitting by randomly disabling some neurons during training.
 
 Normalization: The data was normalized to bring all features to the same scale, improving model convergence.
 
-Model Evaluation: We used accuracy, precision, and recall metrics to evaluate the model's performance on both training and testing datasets.
+Model Evaluation: I used accuracy, precision, and recall metrics to evaluate the model's performance on both training and testing datasets.
 
 Images from my first notebook:
 
