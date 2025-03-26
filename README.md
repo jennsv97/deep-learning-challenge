@@ -60,7 +60,8 @@ Normalization: The data was normalized to bring all features to the same scale, 
 
 Model Evaluation: We used accuracy, precision, and recall metrics to evaluate the model's performance on both training and testing datasets.
 
-(Insert images of model performance, accuracy, confusion matrix, etc.)
+![image](https://github.com/user-attachments/assets/2c29c15b-827d-4e86-b67a-f726a4a5a658)
+
 
 Summary
 The deep learning model built for the Alphabet Soup dataset achieved an accuracy of 80%, slightly below the target. The model performed well, but there is room for improvement.
