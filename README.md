@@ -75,7 +75,7 @@ Images from my second notebook:
 
 
 Summary
-The deep learning model built for the Alphabet Soup dataset achieved an accuracy of 80%, slightly below the target. The model performed well, but there is room for improvement.
+The deep learning model built for the Alphabet Soup dataset achieved an accuracy of 73%, slightly below the target. The model performed well, but there is room for improvement.
 
 
 
